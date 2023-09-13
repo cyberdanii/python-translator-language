@@ -1,1 +1,1 @@
-# PyTranslator ✔
+# PyTranslator ✅
